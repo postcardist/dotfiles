@@ -2,7 +2,7 @@
 
 ## Installation
 
-	git clone
+	git clone https://github.com/postcardist/dotfiles
 
 ## Create symlinks
 
