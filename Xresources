@@ -1,0 +1,9 @@
+
+fi.font: Hack 11
+rofi.padding: 20
+rofi.line-padding: 2
+rofi.color-enabled: true
+rofi.hide-scrollbar: true
+rofi.separator-style: solid
+rofi.color-window: #4D545E, #B6B6B6, #4D545E
+rofi.color-normal: #4D545E, #B6B6B6, #4D545E, #4D545E, #5DD5FF
