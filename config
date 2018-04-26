@@ -163,6 +163,9 @@ bindsym $mod+Shift+w exec "firefox"
 # Lock screen
 bindsym $mod+Shift+x exec "i3lock"
 
+# Window effects manager
+exec compton -f
+
 # Set wallpaper
 exec feh --bg-fill .wall.jpg
 
