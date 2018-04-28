@@ -10,4 +10,5 @@
 	ln -s ~/.dotfiles/vimrc ~/.vimrc
 	ln -s ~/.dotfiles/fehbg ~/.fehbg
 	ln -s ~/.dotfiles/Xresources ~/.Xresources
+	ln -s ~/.dotfiles/i3status.conf ~/.i3status.conf
 	ln -s ~/.dotfiles/config ~/.config/i3/config
