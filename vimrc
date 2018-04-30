@@ -60,3 +60,6 @@ augroup pencil
 " Toggle NERDtree
 map <silent> <C-n> :NERDTreeToggle<CR>
 
+" Toggle Goyo plugin
+map <silent> <C-G> :Goyo <CR>
+
