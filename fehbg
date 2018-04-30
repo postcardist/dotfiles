@@ -1,2 +1,2 @@
 #!/bin/sh
-feh  --bg-fill '/home/plato/.wall.jpg' 
+'feh' '--bg-fill' '.wall.jpg' 
